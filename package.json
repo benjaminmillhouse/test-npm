@@ -4,6 +4,7 @@
   "description": "My first NPM package",
   "main": "index.js",
   "scripts": {
+    "build": "babel ./src/index.js -o ./index.js",
     "release": "np"
   },
   "author": "",

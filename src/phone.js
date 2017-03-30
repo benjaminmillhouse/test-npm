@@ -1,3 +1,3 @@
-module.exports.formatter = function (string = '') {
+export let formatter = function (string = '') {
   return string;
 };
