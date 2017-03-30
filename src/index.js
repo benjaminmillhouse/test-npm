@@ -1,2 +1,2 @@
-import formatter from './phone';
-export {formatter};
+import {formatter} from './phone';
+export default formatter;
