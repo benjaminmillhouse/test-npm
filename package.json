@@ -1,0 +1,14 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "My first NPM package",
+  "main": "index.js",
+  "scripts": {
+    "release": "np"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "np": "^2.13.1"
+  }
+}
